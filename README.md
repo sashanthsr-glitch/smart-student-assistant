@@ -54,3 +54,21 @@ while True:
         print("\nStay consistent, keep learning, and don’t overthink.\n")
 
     print("----------------------------------")
+```
+
+---
+
+## 🚀 Technologies Used
+
+- Python  
+
+---
+
+## 📌 Future Improvements
+
+- Add more intelligent responses using NLP  
+- Convert into a chatbot with a graphical interface  
+- Deploy as a web application  
+- Integrate with AI APIs for smarter responses  
+
+---
